@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sametefekeskin
+- 👋 Hi, I’m @sametefekeskin, BsC of Economics student at Bilkent University
 - 👀 I’m interested in Economics and Data Science
 - 🌱 I’m currently learning Data Science applications with Python and Java programming.
 - 📫 How to reach me keskinsametefe@gmail.com
