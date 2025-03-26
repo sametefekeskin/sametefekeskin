@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sametefekeskin, BsC of Economics student at Bilkent University
-- 👀 I’m interested in Economics and Data Science
-- 🌱 I’m currently learning Data Science applications with Python and Java programming.
-- 📫 How to reach me keskinsametefe@gmail.com
+- 👀 I'm currently focused on Time Series Analysis, Financial Forecasting and Econometrics.
+- 📫 How to reach me efe.keskin@ug.bilkent.edu.tr
 
 <!---
 sametefekeskin/sametefekeskin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
